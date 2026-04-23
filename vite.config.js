@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: './',
+  base: '/MA-Pilot-Exam23/',
   build: { outDir: 'dist' }
 });
